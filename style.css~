@@ -1,0 +1,39 @@
+.{
+position:absolute;
+box-sizing:border-box;
+}
+img{
+box-sizing: border-box;
+left:300px;
+display:block;
+margin: 100px auto;
+}
+input{
+display:block;
+margin:-300px auto;
+width:500px;
+height:40px;
+border:1px solid lightgrey;
+box-shadow:1.5px 1.5px grey;
+border-radius:0px 0px 0px 0px;
+}
+.but{
+
+border-radius:0px 0px;
+box-shadow: 0px 0px;
+display:inline;
+width:170px;
+height:30px;
+padding:5px;
+}
+#search{
+display:block;
+margin: 330px 430px;
+}
+#lucky{
+display:block;
+margin: -360px 650px;
+}
+.but:hover{
+background-color:lightgrey;
+}
